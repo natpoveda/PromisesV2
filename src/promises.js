@@ -1,7 +1,7 @@
 console.log(1);
 
 window.addEventListener('DOMContentLoaded', function () {
-    console.log(2);
+    console.log('Dos',2);
 });
 
 function factorial(x) {
